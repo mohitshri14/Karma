@@ -1,2 +1,2 @@
 # Karma
-This is master personal use
+This is master personal project
